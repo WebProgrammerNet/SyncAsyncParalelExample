@@ -1,0 +1,10 @@
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\bin\Debug\AsyncSyncTask.exe.config
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\bin\Debug\AsyncSyncTask.exe
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\bin\Debug\AsyncSyncTask.pdb
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.Form1.resources
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.Properties.Resources.resources
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.exe
+C:\Users\Code\source\repos\AsyncSyncTask\AsyncSyncTask\obj\Debug\AsyncSyncTask.pdb
